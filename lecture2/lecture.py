@@ -1107,7 +1107,7 @@ Q: How is this useful for data processing?
 A: Many possible answers! In decreasing order of importance:
 
 - Interacting with software dev tools (like git, Docker, and package managers)
-  -- many tools are built to be accessed through the shell.
+  -- many tools are built to be accessed through the shell. 
 
 - Give us a better understanding of how programs run "under the hood"
   and how the filesystem and operating system work
